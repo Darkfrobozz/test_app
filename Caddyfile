@@ -1,6 +1,4 @@
-# Replace 'yourdomain.com' with your actual domain
-# Or use ':80' if you just want to test via IP first
-:80 {
+chess.hassinen.se {
     root * /usr/share/caddy
     file_server
     encode gzip
