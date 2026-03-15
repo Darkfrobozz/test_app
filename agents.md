@@ -24,3 +24,5 @@
    git commit -m "Initial commit"
    git push -u origin main
    ```
+
+**Important**: Never commit and push automatically. Only commit when explicitly requested by the user.
